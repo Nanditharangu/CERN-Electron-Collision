@@ -1,0 +1,2 @@
+data_dir : "src/data/particle_collision.csv"
+model_dir : 'src/model/cern_model.h5'
