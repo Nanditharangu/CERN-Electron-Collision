@@ -1,2 +1,4 @@
 env/
 .DS_Store
+cern_accessKeys.csv
+Cern.pem
